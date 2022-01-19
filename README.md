@@ -3,4 +3,4 @@
 ## Meu aprendizado em Desenvolvimento Web
 
 ### Praticas:
-* Teste 1: <a target="_blank" href="https://technoob.netlify.app">TechNoob</a>
+* Teste 1: <a href="https://technoob.netlify.app">TechNoob</a>
