@@ -3,4 +3,4 @@
 ## Meu aprendizado em Desenvolvimento Web
 
 ### Praticas:
-*TechNoob: technoob.netlify.app
+* TechNoob: (technoob.netlify.app)
